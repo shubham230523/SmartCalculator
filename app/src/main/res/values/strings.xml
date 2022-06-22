@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartCalculator</string>
+    <string name="mathematical_expression">2 * 2 = ?</string>
+</resources>
